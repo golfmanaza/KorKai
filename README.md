@@ -101,7 +101,7 @@ h1,h2,h3,h4,h5,h6 {
   </div>
 </div>
 <div class="w3-display-container mySlides"> 
-  <img src="kai6.jpg" style="width:100%">
+  <img src="kai6.JPG" style="width:100%">
   <div class="w3-display-middle w3-large w3-container w3-padding-16 ">
   </div>
   
@@ -133,13 +133,13 @@ h1,h2,h3,h4,h5,h6 {
   </div>
 </div>
 <div class="w3-display-container mySlides">
-  <img src="kai12.jpg" style="width:100%">
+  <img src="kai12.JPG" style="width:100%">
   <div class="w3-display-middle w3-large w3-container w3-padding-16 ">
 
   </div>
 </div>
 <div class="w3-display-container mySlides">
-  <img src="kai13.jpg" style="width:100%">
+  <img src="kai13.JPG" style="width:100%">
   <div class="w3-display-middle w3-large w3-container w3-padding-16 ">
 
   </div>
