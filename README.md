@@ -36,7 +36,7 @@ h1,h2,h3,h4,h5,h6 {
   <!-- About Section -->
   <div class="w3-row w3-padding-64 w3-card-1" id="about">
     <div class="w3-col m6 w3-padding-large w3-hide-small">
-     <img src="kai2.jpg" class="w3-round w3-image w3-hover-opacity" alt="Steak" width="600" height="750">
+     <img src="kai2.JPG" class="w3-round w3-image w3-hover-opacity" alt="ข.ใข่" width="600" height="750">
     </div>
 
     <div class="w3-col m6 w3-padding-large w3-card-4 ">
@@ -71,10 +71,10 @@ h1,h2,h3,h4,h5,h6 {
     </div>
 
     <div class="w3-col l6 w3-padding-large w3-card-2">
-      <img src="kai3.jpg" class="w3-round w3-image w3-hover-opacity" alt="ข.ใข่" width="500" height="750">
+      <img src="kai3.JPG" class="w3-round w3-image w3-hover-opacity" alt="ข.ใข่" width="500" height="750">
     </div>
 	<div class="w3-col l6 w3-padding-large w3-card-2">
-      <img src="kai5.jpg" class="w3-round w3-image w3-hover-opacity" alt="ข.ใข่" width="500" height="750">
+      <img src="kai5.JPG" class="w3-round w3-image w3-hover-opacity" alt="ข.ใข่" width="500" height="750">
     </div>
   </div>
 
@@ -89,13 +89,13 @@ h1,h2,h3,h4,h5,h6 {
 <div class="w3-content w3-display-container" style="max-width:600px;min-width:600px letter-spacing:3px;">
 
 <div class="w3-display-container mySlides"> 
-  <img src="kai4.jpg" style="width:100%">
+  <img src="kai4.JPG" style="width:100%">
   <div class="w3-display-middle w3-large w3-container w3-padding-16 ">
   </div>
   
 </div>
 <div class="w3-display-container mySlides">
-  <img src="kai5.jpg" style="width:100%">
+  <img src="kai5.JPG" style="width:100%">
   <div class="w3-display-middle w3-large w3-container w3-padding-16 ">
 
   </div>
@@ -107,27 +107,27 @@ h1,h2,h3,h4,h5,h6 {
   
 </div>
 <div class="w3-display-container mySlides"> 
-  <img src="kai7.jpg" style="width:100%">
+  <img src="kai7.JPG" style="width:100%">
   <div class="w3-display-middle w3-large w3-container w3-padding-16 ">
   </div>
   
 </div>
 
 <div class="w3-display-container mySlides">
-  <img src="kai8.jpg" style="width:100%">
+  <img src="kai8.JPG" style="width:100%">
   <div class="w3-display-middle w3-large w3-container w3-padding-16 ">
 
   </div>
 </div>
 
 <div class="w3-display-container mySlides">
-  <img src="kai9.jpg" style="width:100%">
+  <img src="kai9.JPG" style="width:100%">
   <div class="w3-display-middle w3-large w3-container w3-padding-16 ">
 
   </div>
 </div>
 <div class="w3-display-container mySlides">
-  <img src="kai10.jpg" style="width:100%">
+  <img src="kai10.JPG" style="width:100%">
   <div class="w3-display-middle w3-large w3-container w3-padding-16 ">
 
   </div>
@@ -145,13 +145,13 @@ h1,h2,h3,h4,h5,h6 {
   </div>
 </div>
 <div class="w3-display-container mySlides">
-  <img src="kai11.jpg" style="width:100%">
+  <img src="kai11.JPG" style="width:100%">
   <div class="w3-display-middle w3-large w3-container w3-padding-16 ">
 
   </div>
 </div>
 <div class="w3-display-container mySlides">
-  <img src="kai14.jpg" style="width:100%">
+  <img src="kai14.JPG" style="width:100%">
   <div class="w3-display-middle w3-large w3-container w3-padding-16 ">
 
   </div>
